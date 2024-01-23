@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mandil karki</h1>
+<h1 align="center">Hi 👋, I'm Mandil Karki</h1>
 <h3 align="center">A passionate NLP Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandilkarki&label=Profile%20views&color=0e75b6&style=flat" alt="mandilkarki" /> </p>
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **LLMs and different domains**
 
-- 🤝 I’m looking for help with **world peace**
+- 🤝 I’m looking for **collaboration and synergy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
