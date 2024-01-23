@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **nlp**
+- 🔭 I’m currently working on **Generative AI**
 
-- 👯 I’m looking to collaborate on **transformers gpt3 openai**
+- 👯 I’m looking to collaborate on **LLMs and different domains**
 
 - 🤝 I’m looking for help with **world peace**
 
