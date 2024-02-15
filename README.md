@@ -10,7 +10,15 @@
 - 🔭 I’m currently working on **Generative AI**
 
 - 👯 I’m looking to collaborate on **LLMs and different domains**
-
+-   🧠 Specializing in Multimodal LLMs
+    🎛️ Mastering LLMOps Prompt Engineering
+    🛠️ Focusing on LLM Fine-Tuning
+    🎤 Versed in Voice & Sound AI
+    📝 Proficient with Natural Language Processing
+    💬 Creating Conversational AI Interfaces
+    📊 Managing Complex Data Sets
+    🧮 Skilled in Tabular Data Algorithms
+    🌟 Embracing Technological Innovation
 - 🤝 I’m looking for **collaboration and synergy**
 
 <h3 align="left">Connect with me:</h3>
