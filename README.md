@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandil Karki</h1>
-<h3 align="center">A passionate NLP Engineer, Time is the scarcest resource to a being </h3>
+<h3 align="center">A passionate NLP Engineer, https://mandilkarki.github.io/ Time is the scarcest resource to a living being </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandilkarki&label=Profile%20views&color=0e75b6&style=flat" alt="mandilkarki" /> </p>
 
